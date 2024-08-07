@@ -1,6 +1,10 @@
 
 yukina@inoueyukinanoMacBook-Air samurai % mkdir git_challenge
 
+yukina@inoueyukinanoMacBook-Air samurai % cd /Users/yukina/Desktop/samurai/git_challenge
+
+yukina@inoueyukinanoMacBook-Air git_challenge % git init
+
 yukina@inoueyukinanoMacBook-Air git_challenge % ls           
 hello_world.txt
 
@@ -11,4 +15,3 @@ yukina@inoueyukinanoMacBook-Air git_challenge % git commit -m "日本語訳を�
 yukina@inoueyukinanoMacBook-Air git_challenge % git log --oneline
 e3a907a (HEAD -> main) 日本語訳を追記
 405e0fa hello_world.txtを追加
-
